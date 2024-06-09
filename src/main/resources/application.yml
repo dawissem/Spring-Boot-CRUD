@@ -1,0 +1,6 @@
+#spring:
+#datasource:
+#username: root
+# password: admin
+#  url:jdbc: mysql://localhost:3306/dawissem
+#  driver-class-name : com.mysql.cj.jdbc.Driver
